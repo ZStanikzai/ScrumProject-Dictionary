@@ -2,6 +2,17 @@ Dear All,
 
 Kindly share your comments regarding the user stories here!
 
-As a user
-I want to rate the dictionary after using it
-so that the developers could update dictionary based on my feedback
+Mr. Shabeer, 
+I have gone through the user stories and they looked perfect. However, there might be some needs for changes i believe. if you dont mind
+
+in the first user story:
+since it is an English to Dari dictionary, most of the cs terminologies cannot directly be traslated to Dari. So i think it wont work that way.
+
+in the seventh user story:
+though the priority is low, but it still wont be possible to develop such dictionary to have millions of words. for this project, i think it would be better to go with 100 words maximam.
+
+in the 10th user story:
+it is good to have synonyms, antonyms, and examples. But instead of writing "for the searched word", i think it would be better to use "for complicated words", because there are some words 
+which does not have any synonyms and antonyms.
+
+... and can we have an option for rating the dictionary by the users too?!
