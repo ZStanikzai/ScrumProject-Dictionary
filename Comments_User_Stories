@@ -5,3 +5,12 @@ Kindly share your comments regarding the user stories here!
 As a user
 I want to rate the dictionary after using it
 so that the developers could update dictionary based on my feedback
+As the Product Owner I need to know which User Stories are feasible for you and which are not. 
+I have gathered 10 User Stories, please read each one of them carefully and then comment back here that which one is Ok with you and which one is not. 
+
+For instance this is one of the User Stories that I think should be considered for making the software: 
+
+Title: Dictionary           Priority: High          Estimate: 5 Minutes
+As a Computer Science Student
+I want to search for words that are widely used in IT field. Mostly CS terminologies
+so that I can better know and understand what are their meaning in a technical context
