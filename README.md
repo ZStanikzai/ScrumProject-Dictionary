@@ -8,3 +8,8 @@ so that the developers could update based on my feedback
 
 P.S. Mr.Shabeer,
 You almost covered important things. Thanks for your effort!
+
+
+Dear Shabeer,
+
+I think you have covered all but I have also added some user stories please add them cause it will make the dictionary more better for the use like adding synonoms and proverbs feature to the dictionary 
