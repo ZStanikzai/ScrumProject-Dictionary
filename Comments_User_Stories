@@ -2,9 +2,48 @@ Dear All,
 
 Kindly share your comments regarding the user stories here!
 
+patch-4
 As a user
 I want to rate the dictionary after using it
 so that the developers could update dictionary based on my feedback
 
 I have read all the user stories and they all looked perfect
 Just for the first one that i think it might not be possible to translate CS terms directly from english to dari because most of them do not have dari translations.
+patch-3
+Mr. Shabeer, 
+I have gone through the user stories and they looked perfect. However, there might be some needs for changes i believe. if you dont mind
+
+in the first user story:
+since it is an English to Dari dictionary, most of the cs terminologies cannot directly be traslated to Dari. So i think it wont work that way.
+
+in the seventh user story:
+though the priority is low, but it still wont be possible to develop such dictionary to have millions of words. for this project, i think it would be better to go with 100 words maximam.
+
+in the 10th user story:
+it is good to have synonyms, antonyms, and examples. But instead of writing "for the searched word", i think it would be better to use "for complicated words", because there are some words 
+which does not have any synonyms and antonyms.
+
+... and can we have an option for rating the dictionary by the users too?!
+
+Dear All,  
+
+thanks for the hardwork and creating the repository. 
+
+here is my idea for the user stories/ 
+
+
+As a student 
+I want to seach for the synonm of the words 
+so that i can improve my vocublary skills for the words
+
+
+As a teacher 
+I want to search words pronounciation 
+so that I can pronounce the words correctly 
+
+
+as student 
+I want to search for proverbs meaning
+so that I can use them in the right way 
+master
+ master
